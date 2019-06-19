@@ -1,1 +1,1 @@
-# redis-benchmark
+# memcached-benchmark
