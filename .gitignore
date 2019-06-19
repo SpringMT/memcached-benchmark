@@ -1,0 +1,4 @@
+.idea
+pkg/*
+main
+memcached-benchmark
